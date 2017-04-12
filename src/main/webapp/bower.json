@@ -1,0 +1,25 @@
+{
+  "name": "front-project",
+  "description": "Front para proyecto Dictaminacion Cognitiva GMM AXA",
+  "main": "",
+  "authors": [
+    "juanmanuel.hernandez@soapros.com"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "^3.5.2",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1",
+    "font-awesome": "fontawesome#^4.7.0",
+    "angular": "angularjs#^1.6.4"
+  }
+}
